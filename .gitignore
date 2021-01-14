@@ -59,4 +59,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 *.log
+*.pdf
+*.info
+*/Library/
+ProjectSettings/ProjectVersion.txt
 StreamingAssets/SaveData.bs
